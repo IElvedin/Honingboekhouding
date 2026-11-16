@@ -50,35 +50,13 @@ php -S localhost:8000 -t public
 
 De applicatie werkt volledig. Een paar keuzes kan alleen de vereniging maken. Tot die tijd geldt een onderbouwde voorlopige keuze:
 
-[1]
-Vraag: Hoort `Klaasveld` bij een bestaande bijenstand? (`Kerkhof`, `Molenpad` en `Molenweide` zijn bevestigd)
-Huidige keuze: niet toegewezen 
-Gevolg: de oogsten met deze namen staan in `import_log` en tellen niet mee 
-Details: [Bijenstanden](#bijenstanden)
-
-[2]
-Vraag: Wat is één bijenvolk: lid + code, of alleen de code? 
-Huidige keuze: lid + code 
-Gevolg: bepaalt de top 5
-Details: [Volken](#volken)
-
-[3]
-Vraag: Is `v167` (formaat 03) hetzelfde volk als `V-167` (formaat 04)? 
-Huidige keuze: ja 
-Gevolg: volken uit formaat 03 en 04 met hetzelfde nummer worden één volk
-Details: [Volken](#volken)
-
-[4]
-Vraag: Zijn de oogsten onder 2 kg in formaat 06 echt? 
-Huidige keuze: ja, letterlijk overgenomen 
-Gevolg: deze lichte oogsten tellen mee in de opbrengst
-Details: [Gewichten](#gewichten)
-
-[5]
-Vraag: Is er een ledenregister? 
-Huidige keuze: nee: "alle leden" = alle leden die ooit iets aanleverden 
-Gevolg: een nieuw lid zonder oogst ontbreekt in "nog niets aangeleverd"
-Details: [Leden](#leden)
+| # | Vraag | Voorlopige keuze | Gevolg | Details |
+|---|---|---|---|---|
+| 1 | Hoort `Klaasveld` bij een bestaande bijenstand? (`Kerkhof`, `Molenpad` en `Molenweide` zijn bevestigd) | niet toegewezen | de oogsten met deze naam staan in `import_log` en tellen niet mee | [Bijenstanden](#bijenstanden) |
+| 2 | Wat is één bijenvolk: lid + code, of alleen de code? | lid + code | bepaalt de top 5 | [Volken](#volken) |
+| 3 | Is `v167` (formaat 03) hetzelfde volk als `V-167` (formaat 04)? | ja | volken uit formaat 03 en 04 met hetzelfde nummer worden één volk | [Volken](#volken) |
+| 4 | Zijn de oogsten onder 2 kg in formaat 06 echt? | ja, letterlijk overgenomen | deze lichte oogsten tellen mee in de opbrengst | [Gewichten](#gewichten) |
+| 5 | Is er een ledenregister? | nee: "alle leden" = alle leden die ooit iets aanleverden | een nieuw lid zonder oogst ontbreekt in "nog niets aangeleverd" | [Leden](#leden) |
 
 ---
 
