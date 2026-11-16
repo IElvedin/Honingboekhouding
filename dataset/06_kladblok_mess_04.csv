@@ -1,0 +1,540 @@
+volk_id,standplaats,gewicht,wanneer,wie,bloem,smaak_score,notitie,verwerkt_door
+"Bijen 13","Achter de Kerk","8,9",2025-08-15,"Jan de Vries",Esdoorn,,"Mooie lichte kleur",SysAdmin
+"Bijen 77",Molen,"7,5",28.04.2025,"Rosalie de Jong",Heide,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 37",HV,"19 kg",2025/06/06,"Wouter Jonker",Heide,,"Snel gekristalliseerd",SysAdmin
+"Bijen 43","A. de Kerk","14,1",2025-09-24,"Youssef Ali",Acacia,goed,"Iets te vochtig",SysAdmin
+"Bijen 7","Achter de kerk","7,0",08.05.2025,"Julia Visser",Zonnebloem,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 40",Klaproosplein,"22,4",16-05-2025,"Jan de Vries",Zonnebloem,,"Heerlijk stroperig",SysAdmin
+"Bijen 32",Klaproosplein,"719 g",2025/05/11,"Samira El-Mansoor",Klaver,,"Lichte bitterheid",SysAdmin
+"Bijen 94","Achter de Kerk","2 kg",25.05.2025,"Eline Groen",Bramen,,"Lichte bitterheid",SysAdmin
+"Bijen 12","Bosrand Noord","1685 g",2025-07-17,"Fatima El Idrissi",Linde,,"Geurig en helder",SysAdmin
+"Bijen 69",Kerkhof,"1117 g","4 mei 2025","Youssef Ali",Zonnebloem,"zeer goed","Top oogst",SysAdmin
+"Bijen 11",Heideveld,"2 kg",2025/05/10,"Fleur Kok",Esdoorn,excellent,"Top oogst",SysAdmin
+"Bijen 98","Zonneweide West",16500g,16-06-2025,"Fleur Kok",Heide,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 47",Klaproosplein,20000g,"21 sep 2025","Jeroen Kuiper",Klaver,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 48",HV,"16 kg",15-08-2025,"Fleur Kok",Zonnebloem,,"Mooie lichte kleur",SysAdmin
+"Bijen 31",Kerkhof,"1074 g",2025-09-27,"Fatima El Idrissi",Zonnebloem,matig,"Klein beetje troebel",SysAdmin
+"Bijen 8",bosrand,"5 kg",2025-04-18,"Nadia Ali",Acacia,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 15","De Bosrand","7,3",2025/06/01,"Nadia Ali",Koolzaad,,"Snel gekristalliseerd",SysAdmin
+"Bijen 81","Achter de Kerk","12,2",16-04-2025,"Milan de Wit",Esdoorn,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 40",Klaproos,"16,5",12-09-2025,"Bram de Ruiter",Voorjaar,goed,"Geurig en helder",SysAdmin
+"Bijen 19","Achter de kerk","7 kg",2025/05/22,"Fleur Kok",Zomer,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 13",Molen,"1434 g","5 sep 2025","Owen de Groot",Bramen,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 87","achter d kerk","7 kg",2025-08-21,"Bram de Ruiter",Esdoorn,matig,,SysAdmin
+"Bijen 56",Molen,"7 kg",2025-09-13,"Dylan Schouten",Esdoorn,excellent,,SysAdmin
+"Bijen 78",HV,"2 kg",13.08.2025,"Sophie van Dijk",Linde,matig,"Extra rijk aroma",SysAdmin
+"Bijen 26",ZW-1,"2 kg",2025/07/24,"Marie Pieters",Acacia,"zeer goed","Heerlijk stroperig",SysAdmin
+"Bijen 86",bosrand,5300g,2025-04-05,"Nadia Ali",Voorjaar,goed,"Heel dicht bij de kist",SysAdmin
+"Bijen 26","Heideveld Zuid","4 kg",2025-07-29,"Emma de Graaf",Acacia,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 95","De Heide",10300g,25-05-2025,"Rik Bos",Koolzaad,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 6","Achter de kerk","17,8","13 jun 2025","Thomas Meijer",Zomer,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 97",Kerk,"846 g","24 jun 2025","Jeroen Kuiper",Linde,"zeer goed",,SysAdmin
+"Bijen 15","Zonneweide West","7 kg",2025-08-15,"Kevin Molenaar",Voorjaar,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 38",Klaasveld,"8 kg","26 mei 2025","Lars Vermeer",Zomer,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 30",ZW-1,"1243 g",2025/04/14,"Henk Zwart",Voorjaar,goed,"Lichte kristallisatie",SysAdmin
+"Bijen 9","Achter de Kerk",5800g,"5 sep 2025","Kevin Molenaar",Acacia,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 29",Molen,15400g,2025-09-09,"Rosalie de Jong",Esdoorn,,"Klein beetje troebel",SysAdmin
+"Bijen 66",ZW,"1 kg",2025/07/06,"Klaas Vaak",Esdoorn,matig,"Heerlijk stroperig",SysAdmin
+"Bijen 79","Zonne weide",5900g,26-06-2025,"Anita Bakker",Esdoorn,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 47","Heideveld Zuid","14 kg","11 mei 2025","Julia Visser",Heide,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 80",Kerkhof,"16,0",2025-07-05,"Fleur Kok",Bramen,,"Lichte kristallisatie",SysAdmin
+"Bijen 38","Heideveld Zuid","1 kg",03.09.2025,"Timon Kuijpers",Acacia,,"Top oogst",SysAdmin
+"Bijen 11",Heideveld,"20,2",2025-05-22,"Sophie van Dijk",Klaver,,"Snel gekristalliseerd",SysAdmin
+"Bijen 42","A. de Kerk","5,4",08.09.2025,"Fatima El Idrissi",Acacia,matig,"Top oogst",SysAdmin
+"Bijen 15",bosrand,"21,8",2025-07-05,"Eva Jansen",Klaver,excellent,,SysAdmin
+"Bijen 100",Molen,"793 g",05-06-2025,"Jan de Vries",Acacia,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 71","achter d kerk","11 kg",14.08.2025,"Ilse de Boer",Acacia,excellent,"Iets te vochtig",SysAdmin
+"Bijen 5",Molenweide,18300g,"31 jul 2025","Jeroen Kuiper",Voorjaar,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 50","achter d kerk","8 kg",2025-06-06,"Wouter Jonker",Zonnebloem,,"Mooie lichte kleur",SysAdmin
+"Bijen 33","De Bosrand","7,4","23 jul 2025","Sara van Leeuwen",Zomer,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 53",Klaproos,15300g,2025-04-12,"Marie Pieters",Acacia,matig,,SysAdmin
+"Bijen 92",Klaproos,"3 kg",2025/08/02,"Amal Hassan",Bramen,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 84","De Heide","21,9",12-04-2025,"Sara van Leeuwen",Esdoorn,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 26",AdK,"10 kg",2025/08/22,"Daan Smits",Heide,,"Geurig en helder",SysAdmin
+"Bijen 9","De Bosrand","1650 g",11-04-2025,"Rik Bos",Klaver,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 89",zonneweide,8000g,2025/06/18,"Leonie van den Berg",Klaver,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 92",Bosrand,"26,6",02-06-2025,"Rik Bos",Acacia,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 3",Klaproosplein,"7,7",2025-06-09,"Jeroen Kuiper",Linde,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 68",Klaproos,"7 kg","6 mei 2025","Jeroen Kuiper",Linde,goed,"Klein beetje troebel",SysAdmin
+"Bijen 89","achter d kerk","11,8",2025/06/06,"Adriaan Vink",Zonnebloem,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 29","Bosrand Noord","5 kg",2025/04/16,"Dylan Schouten",Bramen,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 55",Klaproosweg,"7 kg",2025-07-02,"Chantal Dijkstra",Linde,goed,"Klein beetje troebel",SysAdmin
+"Bijen 39","Achter de Kerk","11,8",14-09-2025,"Sophie van Dijk",Koolzaad,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 96",Klaasveld,"7 kg",2025-04-28,"Bram de Ruiter",Heide,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 90",ZW-1,"4 kg",04.04.2025,"Peter P",Acacia,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 6","achter d kerk","8 kg",2025-06-09,"Amal Hassan",Bramen,excellent,"Goed uitgebalanceerd",SysAdmin
+"Bijen 93",HV,"9 kg","25 jun 2025","Rik Bos",Heide,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 15","De Bosrand",12700g,14-05-2025,"Fatima El Idrissi",Koolzaad,,,SysAdmin
+"Bijen 74","Bosrand Zuid","5,0","1 aug 2025","Ilse de Boer",Zonnebloem,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 2","Zonne weide","16 kg",02.08.2025,"Fleur Kok",Koolzaad,"zeer goed","Top oogst",SysAdmin
+"Bijen 28","A. de Kerk","2 kg",2025-09-28,"Bram de Ruiter",Zomer,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 34","Achter de kerk","15,1",2025/05/06,"Nadia Ali",Esdoorn,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 25","De Heide",13100g,2025-04-11,"Mohammed Rahman",Acacia,,"Klein beetje troebel",SysAdmin
+"Bijen 77",Heideveld,"6 kg",31-08-2025,"Emma de Graaf",Voorjaar,excellent,"Top oogst",SysAdmin
+"Bijen 58",Molenpad,"8 kg",01.09.2025,"Pieter van Loon",Zonnebloem,matig,"Extra rijk aroma",SysAdmin
+"Bijen 70","Bosrand Zuid","1523 g",03-09-2025,"Anita Bakker",Voorjaar,"zeer goed",,SysAdmin
+"Bijen 7",Klaproosplein,"14,0","14 jun 2025","Pieter van Loon",Linde,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 59","achter d kerk","7 kg",23.08.2025,"Noah Mulder",Klaver,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 68",Zonneweide,"4 kg","20 mei 2025","Maya Smit",Koolzaad,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 38","achter d kerk","5 kg",2025/04/13,"Bram de Ruiter",Linde,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 8",zonneweide,"11,3",07-08-2025,"Thomas Meijer",Acacia,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 40",Klaasveld,"1642 g",19.07.2025,"Emma de Graaf",Esdoorn,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 69","De Heide","7 kg",12-08-2025,"Ilse de Boer",Zonnebloem,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 65","Bosrand Noord","3 kg","9 jun 2025","Mohammed Rahman",Klaver,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 76",zonneweide,"3 kg",13.07.2025,"Iris Maas",Voorjaar,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 36",HV,"12,9",01-08-2025,"Anita Bakker",Linde,goed,,SysAdmin
+"Bijen 73","Heideveld Zuid","6 kg",2025/05/20,"Adriaan Vink",Linde,,"Heel dicht bij de kist",SysAdmin
+"Bijen 77",Molen,19900g,"14 apr 2025","Anita Bakker",Esdoorn,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 3",Molenpad,"26,9",2025/05/01,"Rosalie de Jong",Voorjaar,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 100",Molen,"16,9",2025/07/12,"Kevin Molenaar",Klaver,,"Heerlijk stroperig",SysAdmin
+"Bijen 58",Molenstraat,22900g,02-08-2025,"Bram de Ruiter",Linde,,"Geurig en helder",SysAdmin
+"Bijen 64",HV,"5 kg",26-04-2025,"Ilse de Boer",Linde,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 42",Zonneweide,"1124 g",28.06.2025,"Kevin Molenaar",Koolzaad,,"Extra rijk aroma",SysAdmin
+"Bijen 39",Heideveld,"8 kg",2025-06-29,"Mohammed Rahman",Zonnebloem,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 97",Bosrand,"1244 g",07-06-2025,"Ilse de Boer",Zomer,,"Geurig en helder",SysAdmin
+"Bijen 51",HV,"15 kg",05-05-2025,"Eline Groen",Heide,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 35",zonneweide,"8 kg",07.07.2025,"Chantal Dijkstra",Klaver,,"Goed uitgebalanceerd",SysAdmin
+"Bijen 21",bosrand,"1238 g",16-09-2025,"Leonie van den Berg",Heide,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 42",Klaasveld,"4 kg","5 aug 2025","Anita Bakker",Zonnebloem,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 53",Kerkhof,"14 kg",23.08.2025,"Sophie van Dijk",Bramen,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 78",Klaasveld,"13 kg",2025-07-18,"Ilse de Boer",Klaver,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 95",Heideveld,"6 kg",2025-06-15,"Henk Zwart",Zonnebloem,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 75",Molenweide,"969 g",27.06.2025,"Marie Pieters",Koolzaad,,"Verminderd volume door regen",SysAdmin
+"Bijen 18","Zonneweide West","21,2",2025-06-25,"Milan de Wit",Bramen,,"Iets te vochtig",SysAdmin
+"Bijen 33",Klaasveld,"16,0","29 mei 2025","Kevin Molenaar",Acacia,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 90","Bosrand Zuid","15 kg",2025-08-11,"Iris Maas",Zomer,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 84","Bosrand Noord","19 kg","10 jun 2025","Klaas Vaak",Klaver,,"Verminderd volume door regen",SysAdmin
+"Bijen 73",Molenstraat,20900g,2025/09/24,"Fleur Kok",Bramen,"zeer goed",,SysAdmin
+"Bijen 93","A. de Kerk","4 kg",04-04-2025,"Mohammed Rahman",Esdoorn,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 43",Heideveld,"17,5","10 sep 2025","Bram de Ruiter",Zonnebloem,excellent,"Lichte bitterheid",SysAdmin
+"Bijen 100",Klaproosweg,"11,5",2025-08-11,"Thomas Meijer",Acacia,,"Lichte bitterheid",SysAdmin
+"Bijen 39","Bosrand Zuid","26,3","30 jul 2025","Owen de Groot",Klaver,goed,,SysAdmin
+"Bijen 96",Zonneweide,"14 kg",14.09.2025,"Eline Groen",Bramen,matig,,SysAdmin
+"Bijen 93",Klaasveld,"1613 g",2025-04-24,"Julia Visser",Zomer,goed,"Klein beetje troebel",SysAdmin
+"Bijen 55",ZW-1,"14 kg","8 apr 2025","Emma de Graaf",Zonnebloem,goed,"Iets te vochtig",SysAdmin
+"Bijen 17",Zonneweide,"26,3",14.07.2025,"Jan de Vries",Koolzaad,goed,"Extra rijk aroma",SysAdmin
+"Bijen 80","A. de Kerk","16 kg",2025-09-14,"Jan de Vries",Koolzaad,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 62",Molen,"805 g",02-09-2025,"Eva Jansen",Zomer,goed,"Klein beetje troebel",SysAdmin
+"Bijen 62",zonneweide,"5 kg","13 sep 2025","Timon Kuijpers",Zonnebloem,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 66",Klaproosplein,"24,3",25.06.2025,"Bram de Ruiter",Klaver,,"Lichte kristallisatie",SysAdmin
+"Bijen 84","De Bosrand","1051 g",2025/05/05,"Jeroen Kuiper",Bramen,excellent,"Klein beetje troebel",SysAdmin
+"Bijen 98","Achter de Kerk","13 kg",02.04.2025,"Eline Groen",Bramen,,"Heel dicht bij de kist",SysAdmin
+"Bijen 51",Klaproosplein,"1715 g",2025-07-10,"Fatima El Idrissi",Voorjaar,excellent,,SysAdmin
+"Bijen 29","A. de Kerk","23,9",2025-04-19,"Timon Kuijpers",Esdoorn,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 90",Molenweide,"1768 g",2025/04/16,"Daan Smits",Linde,excellent,"Iets te vochtig",SysAdmin
+"Bijen 1",Kerkhof,"2 kg",2025-05-30,"Nadia Ali",Zonnebloem,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 6","Heideveld Zuid","7 kg",13.04.2025,"Ilse de Boer",Klaver,goed,"Top oogst",SysAdmin
+"Bijen 74",Molen,16100g,"29 aug 2025","Amal Hassan",Heide,goed,"Lichte kristallisatie",SysAdmin
+"Bijen 84",Heideveld,"4 kg",24-08-2025,"Peter P",Zomer,matig,"Top oogst",SysAdmin
+"Bijen 24",Molenstraat,"5 kg",2025/04/28,"Rik Bos",Bramen,goed,"Klein beetje troebel",SysAdmin
+"Bijen 48","De Heide","21,1",28-09-2025,"Rosalie de Jong",Esdoorn,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 68","Bosrand Zuid","1723 g",2025-04-16,"Peter P",Zonnebloem,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 24","Achter de kerk","1725 g",27-07-2025,"Amal Hassan",Voorjaar,,"Heerlijk stroperig",SysAdmin
+"Bijen 35",Heideveld,"15,3",2025-04-22,"Pieter van Loon",Zomer,excellent,"Top oogst",SysAdmin
+"Bijen 50","De Heide","14,4",2025/04/15,"Iris Maas",Zonnebloem,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 88","De Bosrand","11,4",2025/06/27,"Anita Bakker",Klaver,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 94",Molenpad,"26,1",11-09-2025,"Lars Vermeer",Acacia,excellent,"Goed uitgebalanceerd",SysAdmin
+"Bijen 79","Zonneweide West",5900g,26-08-2025,"Wouter Jonker",Acacia,,"Heel dicht bij de kist",SysAdmin
+"Bijen 63",Molen,"17,1",22-08-2025,"Timon Kuijpers",Acacia,matig,"Lichte bitterheid",SysAdmin
+"Bijen 29",AdK,"10 kg","1 mei 2025","Thomas Meijer",Acacia,matig,"Heerlijk stroperig",SysAdmin
+"Bijen 36","Bosrand Zuid","1715 g",03.06.2025,"Jan de Vries",Esdoorn,matig,,SysAdmin
+"Bijen 65",ZW-1,"982 g",2025/04/24,"Wouter Jonker",Klaver,matig,"Iets te vochtig",SysAdmin
+"Bijen 96","De Heide","11 kg",22.07.2025,"Chantal Dijkstra",Linde,excellent,"Top oogst",SysAdmin
+"Bijen 43","De Heide","5 kg",2025/06/09,"Bram de Ruiter",Esdoorn,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 84",Zonneweide,"2 kg",23.07.2025,"Owen de Groot",Esdoorn,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 79","Achter de kerk","773 g",2025/07/30,"Youssef Ali",Linde,,,SysAdmin
+"Bijen 76",Molenpad,23400g,2025-07-16,"Daan Smits",Voorjaar,"zeer goed","Heerlijk stroperig",SysAdmin
+"Bijen 43","Achter de kerk",5300g,28.06.2025,"Noah Mulder",Linde,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 60",bosrand,"13 kg","15 sep 2025","Jeroen Kuiper",Heide,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 97",HV,"13 kg",2025-05-15,"Noah Mulder",Bramen,,"Goed uitgebalanceerd",SysAdmin
+"Bijen 71",HV,"5 kg",09.04.2025,"Noah Mulder",Klaver,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 94","Heideveld Zuid","6 kg","11 jun 2025","Peter P",Heide,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 25","Zonneweide West","5 kg","1 jun 2025","Lars Vermeer",Zomer,"zeer goed",,SysAdmin
+"Bijen 61","De Bosrand","26,6",12.05.2025,"Fleur Kok",Heide,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 29",Molenstraat,"5 kg",20.06.2025,"Noah Mulder",Zomer,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 36",AdK,"775 g",21.04.2025,"Eline Groen",Koolzaad,goed,"Extra rijk aroma",SysAdmin
+"Bijen 84",Bosrand,23500g,23.05.2025,"Maya Smit",Voorjaar,,"Lichte bitterheid",SysAdmin
+"Bijen 43","Bosrand Zuid",23200g,"17 mei 2025","Peter P",Esdoorn,"zeer goed","Heerlijk stroperig",SysAdmin
+"Bijen 94","Achter de Kerk","10,0","17 aug 2025","Milan de Wit",Zonnebloem,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 87",Klaproosplein,6200g,2025/06/23,"Owen de Groot",Bramen,matig,"Extra rijk aroma",SysAdmin
+"Bijen 13",Molenstraat,"4 kg",28-04-2025,"Emma de Graaf",Voorjaar,excellent,"Geurig en helder",SysAdmin
+"Bijen 51",Klaproosweg,5400g,14.07.2025,"Pieter van Loon",Heide,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 71","Zonne weide",6300g,"10 jul 2025","Timon Kuijpers",Koolzaad,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 17","Bosrand Noord","3 kg",05-07-2025,"Leonie van den Berg",Linde,excellent,"Iets te vochtig",SysAdmin
+"Bijen 51",Zonneweide,"17 kg",01-09-2025,"Ilse de Boer",Zonnebloem,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 97","Heideveld Zuid","19 kg",2025-04-12,"Bram de Ruiter",Linde,,"Extra rijk aroma",SysAdmin
+"Bijen 18",Kerk,"10 kg","15 aug 2025","Jeroen Kuiper",Zonnebloem,"zeer goed","Top oogst",SysAdmin
+"Bijen 77",Klaproosplein,"7 kg",09.06.2025,"Sophie van Dijk",Klaver,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 39",Molen,"2 kg","24 jul 2025","Rosalie de Jong",Acacia,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 91",bosrand,"6 kg",26-09-2025,"Eline Groen",Zonnebloem,excellent,"Geurig en helder",SysAdmin
+"Bijen 74",Klaproos,16700g,2025-04-06,"Rik Bos",Bramen,goed,"Geurig en helder",SysAdmin
+"Bijen 48",Bosrand,"7 kg",08-08-2025,"Eline Groen",Koolzaad,excellent,"Geurig en helder",SysAdmin
+"Bijen 16",Klaproosplein,"12 kg",2025/06/09,"Rik Bos",Zonnebloem,excellent,"Klein beetje troebel",SysAdmin
+"Bijen 93",Molenweide,"19 kg",2025/04/18,"Lucas Post",Esdoorn,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 39","Zonneweide West","1614 g",29-08-2025,"Fatima El Idrissi",Heide,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 32",Klaproosplein,"17 kg",01.04.2025,"Fleur Kok",Acacia,goed,"Iets te vochtig",SysAdmin
+"Bijen 97",Kerk,"4 kg","30 apr 2025","Sara van Leeuwen",Koolzaad,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 59",Bosrand,"2 kg",22-05-2025,"Fleur Kok",Klaver,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 6",Molenstraat,"1 kg",2025/05/13,"Kevin Molenaar",Zonnebloem,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 44",HV,"503 g",2025/07/25,"Nina Verhoeven",Linde,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 21",Molenstraat,"1720 g",2025/06/26,"Emma de Graaf",Klaver,excellent,"Mooie lichte kleur",SysAdmin
+"Bijen 36",Molenweide,19500g,21-07-2025,"Iris Maas",Zonnebloem,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 97",Bosrand,"4 kg",11-04-2025,"Dylan Schouten",Koolzaad,"zeer goed","Geurig en helder",SysAdmin
+"Bijen 87","A. de Kerk",15200g,2025/07/25,"Chantal Dijkstra",Zomer,"zeer goed","Top oogst",SysAdmin
+"Bijen 65",ZW,23400g,2025-06-04,"Daan Smits",Koolzaad,goed,"Heel dicht bij de kist",SysAdmin
+"Bijen 92",Molenstraat,"755 g",2025/05/03,"Iris Maas",Klaver,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 87","Heideveld Zuid","1470 g","26 apr 2025","Iris Maas",Zonnebloem,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 98",Heideveld,"11 kg","11 jul 2025","Nadia Ali",Zonnebloem,excellent,"Top oogst",SysAdmin
+"Bijen 96","De Bosrand",8400g,03-09-2025,"Timon Kuijpers",Koolzaad,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 45",Molen,"526 g",2025-09-16,"Noah Mulder",Zonnebloem,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 56","A. de Kerk",5700g,"5 mei 2025","Emma de Graaf",Koolzaad,matig,"Extra rijk aroma",SysAdmin
+"Bijen 27",Kerk,"1653 g",03.04.2025,"Ilse de Boer",Zomer,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 10",bosrand,"2 kg",2025-07-02,"Samira El-Mansoor",Zomer,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 64",ZW,"1684 g",2025/04/21,"Amal Hassan",Esdoorn,"zeer goed","Heerlijk stroperig",SysAdmin
+"Bijen 70",zonneweide,22800g,31-05-2025,"Pieter van Loon",Linde,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 38",Klaasveld,"10,5",02-06-2025,"Anita Bakker",Zomer,goed,"Heel dicht bij de kist",SysAdmin
+"Bijen 68",ZW,9100g,2025/07/12,"Peter P",Esdoorn,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 31",Molen,"7 kg",2025-08-09,"Milan de Wit",Klaver,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 96",Heideveld,"16 kg",2025/08/08,"Anita Bakker",Linde,,"Top oogst",SysAdmin
+"Bijen 63",Molenpad,"22,1",19.05.2025,"Timon Kuijpers",Esdoorn,,"Lichte bitterheid",SysAdmin
+"Bijen 80","De Heide",22200g,06-07-2025,"Rosalie de Jong",Klaver,matig,,SysAdmin
+"Bijen 99","Heideveld Zuid",10200g,"27 apr 2025","Leonie van den Berg",Koolzaad,goed,"Extra rijk aroma",SysAdmin
+"Bijen 3",ZW,"24,2",23.07.2025,"Leonie van den Berg",Heide,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 46","Bosrand Noord","1767 g","15 mei 2025","Thomas Meijer",Zomer,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 97",Molenpad,"6 kg",2025-04-08,"Marie Pieters",Esdoorn,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 71",Molen,"11 kg",07-06-2025,"Noah Mulder",Klaver,goed,"Lichte bitterheid",SysAdmin
+"Bijen 67","A. de Kerk","21,3",2025/06/04,"Eline Groen",Zomer,matig,"Klein beetje troebel",SysAdmin
+"Bijen 88","Bosrand Noord",24700g,01.09.2025,"Anita Bakker",Heide,excellent,"Iets te vochtig",SysAdmin
+"Bijen 78",Heideveld,"12 kg","7 mei 2025","Eva Jansen",Zomer,goed,"Lichte bitterheid",SysAdmin
+"Bijen 51",Molen,"11,4","19 apr 2025","Mohammed Rahman",Linde,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 20",Klaasveld,"1738 g","18 jun 2025","Pieter van Loon",Heide,goed,"Extra rijk aroma",SysAdmin
+"Bijen 52",Zonneweide,9800g,16.09.2025,"Thomas Meijer",Acacia,,"Vreemde bijsmaak",SysAdmin
+"Bijen 24","Bosrand Noord","5 kg",2025/08/24,"Eline Groen",Acacia,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 36",Klaproosplein,12300g,19.07.2025,"Daan Smits",Zomer,,"Verminderd volume door regen",SysAdmin
+"Bijen 37","achter d kerk","6,8",2025/09/10,"Dylan Schouten",Voorjaar,,"Iets te vochtig",SysAdmin
+"Bijen 61",ZW,"2 kg","5 apr 2025","Jeroen Kuiper",Heide,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 70","Heideveld Zuid","8 kg",2025/08/27,"Marie Pieters",Linde,goed,"Geurig en helder",SysAdmin
+"Bijen 39","achter d kerk","10 kg",19-07-2025,"Leonie van den Berg",Acacia,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 65",Klaasveld,15400g,18.07.2025,"Fleur Kok",Acacia,,"Heel dicht bij de kist",SysAdmin
+"Bijen 13",ZW-1,"5,8",25-07-2025,"Noah Mulder",Heide,excellent,"Top oogst",SysAdmin
+"Bijen 23",ZW-1,"17,4",2025-06-01,"Ilse de Boer",Koolzaad,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 40","Bosrand Zuid","10 kg","5 jun 2025","Fatima El Idrissi",Esdoorn,matig,"Top oogst",SysAdmin
+"Bijen 6",ZW,"2 kg",07.07.2025,"Mohammed Rahman",Acacia,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 16",ZW,"921 g",29-08-2025,"Fatima El Idrissi",Linde,,"Iets te vochtig",SysAdmin
+"Bijen 22",Molenpad,"11,1",2025-06-10,"Fleur Kok",Esdoorn,excellent,,SysAdmin
+"Bijen 4",Molenstraat,22300g,2025/05/07,"Fatima El Idrissi",Koolzaad,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 55",Klaproos,"19 kg","14 aug 2025","Emma de Graaf",Linde,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 70",Molenweide,"770 g",2025/05/16,"Adriaan Vink",Zonnebloem,,"Extra rijk aroma",SysAdmin
+"Bijen 36","Heideveld Zuid",6200g,"27 apr 2025","Daan Smits",Zomer,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 51",Bosrand,"8 kg","10 aug 2025","Amal Hassan",Esdoorn,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 86",Zonneweide,"23,6",2025-06-27,"Milan de Wit",Zomer,goed,"Klein beetje troebel",SysAdmin
+"Bijen 57",Bosrand,"5,6","23 aug 2025","Iris Maas",Voorjaar,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 14",Zonneweide,"18 kg","30 jul 2025","Mohammed Rahman",Linde,excellent,"Goed uitgebalanceerd",SysAdmin
+"Bijen 74","Achter de kerk","8 kg",22.07.2025,"Lars Vermeer",Acacia,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 15","achter d kerk","1 kg",2025-04-25,"Owen de Groot",Linde,,,SysAdmin
+"Bijen 59",Kerk,"8 kg",2025-07-24,"Eva Jansen",Linde,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 56",Molenstraat,"8 kg",2025/06/14,"Fatima El Idrissi",Acacia,,"Mooie lichte kleur",SysAdmin
+"Bijen 50",Klaproosplein,"8 kg",2025/06/28,"Nina Verhoeven",Esdoorn,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 12",Zonneweide,"9 kg",2025-08-04,"Eline Groen",Zomer,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 35",Heideveld,"6 kg",2025/05/20,"Adriaan Vink",Esdoorn,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 87",Molenweide,15100g,"6 aug 2025","Sara van Leeuwen",Linde,matig,,SysAdmin
+"Bijen 90",Molenstraat,"1004 g",2025/05/21,"Fatima El Idrissi",Zonnebloem,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 26","Zonneweide West","4 kg",08.07.2025,"Sophie van Dijk",Heide,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 79","achter d kerk","18 kg",2025-06-24,"Chantal Dijkstra",Esdoorn,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 49",Klaproosplein,"1 kg",10-08-2025,"Mohammed Rahman",Linde,goed,,SysAdmin
+"Bijen 22",Klaproosplein,"9 kg",2025-04-04,"Amal Hassan",Bramen,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 86","Zonneweide West","1335 g",2025-07-05,"Milan de Wit",Linde,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 82",Molen,"6 kg","16 jun 2025","Sara van Leeuwen",Acacia,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 32",ZW-1,"5 kg",11-06-2025,"Milan de Wit",Zomer,"zeer goed","Top oogst",SysAdmin
+"Bijen 93","Heideveld Zuid",20300g,24.05.2025,"Fleur Kok",Zomer,"zeer goed","Heel dicht bij de kist",SysAdmin
+"Bijen 43",Molenstraat,"24,6",19-05-2025,"Wouter Jonker",Bramen,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 98","Bosrand Zuid","16,1",2025-08-14,"Adriaan Vink",Klaver,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 11",Molenpad,18700g,2025-06-26,"Kevin Molenaar",Bramen,,"Heel dicht bij de kist",SysAdmin
+"Bijen 22","Bosrand Zuid","17 kg",2025/06/21,"Iris Maas",Esdoorn,,"Top oogst",SysAdmin
+"Bijen 75","Zonne weide",12800g,2025/09/03,"Maya Smit",Heide,,"Lichte kristallisatie",SysAdmin
+"Bijen 58",Molenpad,"1650 g","13 apr 2025","Peter P",Klaver,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 77","De Heide","14 kg","24 sep 2025","Kevin Molenaar",Zomer,,"Extra rijk aroma",SysAdmin
+"Bijen 65",Heideveld,"949 g",2025-09-12,"Nadia Ali",Zomer,,"Heerlijk stroperig",SysAdmin
+"Bijen 40",Klaproosplein,"436 g","14 sep 2025","Nadia Ali",Esdoorn,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 55",Klaproosplein,17500g,2025/06/02,"Sara van Leeuwen",Linde,excellent,"Klein beetje troebel",SysAdmin
+"Bijen 91","Bosrand Noord","740 g",2025-05-11,"Dylan Schouten",Voorjaar,matig,"Top oogst",SysAdmin
+"Bijen 21",Klaproos,20700g,"7 sep 2025","Peter P",Bramen,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 18",bosrand,22600g,"20 mei 2025","Klaas Vaak",Linde,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 15",Klaasveld,"1774 g",2025-07-11,"Nina Verhoeven",Esdoorn,goed,"Heel dicht bij de kist",SysAdmin
+"Bijen 33",Molenweide,"17 kg",2025/08/02,"Nina Verhoeven",Esdoorn,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 25",Zonneweide,"13,5",24.08.2025,"Fleur Kok",Esdoorn,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 38",Molen,"1244 g",2025/08/31,"Fatima El Idrissi",Linde,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 45",Molen,"1171 g",2025/05/19,"Henk Zwart",Linde,"zeer goed","Top oogst",SysAdmin
+"Bijen 75","Heideveld Zuid","14 kg",2025-09-15,"Youssef Ali",Heide,,,SysAdmin
+"Bijen 98",Molenpad,5900g,02.04.2025,"Klaas Vaak",Heide,,"Lichte kristallisatie",SysAdmin
+"Bijen 69",Molen,"1545 g","12 mei 2025","Lars Vermeer",Zonnebloem,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 58",Zonneweide,"639 g","24 aug 2025","Ilse de Boer",Bramen,,"Geurig en helder",SysAdmin
+"Bijen 93","Heideveld Zuid",6800g,13-07-2025,"Peter P",Linde,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 89","Heideveld Zuid","756 g","21 jun 2025","Samira El-Mansoor",Koolzaad,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 57",Molen,"873 g",02.06.2025,"Fleur Kok",Voorjaar,,"Lichte kristallisatie",SysAdmin
+"Bijen 47",ZW,"13 kg","21 mei 2025","Eva Jansen",Acacia,goed,,SysAdmin
+"Bijen 99","De Heide","2 kg",2025/04/14,"Timon Kuijpers",Zomer,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 98",Bosrand,"512 g",17.08.2025,"Jeroen Kuiper",Bramen,goed,"Iets te vochtig",SysAdmin
+"Bijen 92",zonneweide,"1653 g",10.04.2025,"Maya Smit",Klaver,,"Vreemde bijsmaak",SysAdmin
+"Bijen 77",Zonneweide,"1254 g",2025/06/09,"Nadia Ali",Zomer,,"Verminderd volume door regen",SysAdmin
+"Bijen 27",Molenstraat,"5,4",29.04.2025,"Owen de Groot",Acacia,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 10","Bosrand Noord","690 g",17-07-2025,"Timon Kuijpers",Acacia,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 63",AdK,"1395 g",04.08.2025,"Jan de Vries",Acacia,matig,"Lichte bitterheid",SysAdmin
+"Bijen 16",ZW,"8,1",2025-05-11,"Lucas Post",Koolzaad,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 36",Molen,"1359 g",21-04-2025,"Julia Visser",Heide,matig,"Klein beetje troebel",SysAdmin
+"Bijen 6",Klaproos,"16 kg",28.05.2025,"Nadia Ali",Heide,matig,"Heerlijk stroperig",SysAdmin
+"Bijen 43","Zonneweide West",11500g,22-07-2025,"Henk Zwart",Bramen,matig,"Lichte kristallisatie",SysAdmin
+"Bijen 55","Heideveld Zuid","1301 g",2025-08-26,"Jeroen Kuiper",Heide,,"Verminderd volume door regen",SysAdmin
+"Bijen 37",Kerk,14200g,2025/05/29,"Kevin Molenaar",Zomer,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 19",ZW,22100g,2025-05-04,"Adriaan Vink",Linde,excellent,,SysAdmin
+"Bijen 47","Heideveld Zuid",10700g,"9 mei 2025","Rik Bos",Koolzaad,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 90",Klaproosplein,21800g,06-04-2025,"Noah Mulder",Voorjaar,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 26",Klaproosplein,"5 kg","20 sep 2025","Bram de Ruiter",Voorjaar,excellent,"Geurig en helder",SysAdmin
+"Bijen 84",Molenstraat,"7 kg","11 apr 2025","Sophie van Dijk",Klaver,matig,"Heerlijk stroperig",SysAdmin
+"Bijen 41",Molenpad,"7 kg",02-09-2025,"Bram de Ruiter",Klaver,matig,"Extra rijk aroma",SysAdmin
+"Bijen 59",ZW,"8 kg",2025/05/04,"Nina Verhoeven",Klaver,goed,"Extra rijk aroma",SysAdmin
+"Bijen 53",Molenstraat,"1357 g",2025-09-24,"Lars Vermeer",Klaver,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 50","Bosrand Zuid",10100g,"12 mei 2025","Milan de Wit",Heide,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 74","De Heide","1 kg",2025-07-19,"Julia Visser",Heide,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 72",AdK,"5 kg",2025/09/09,"Rosalie de Jong",Linde,excellent,"Mooie lichte kleur",SysAdmin
+"Bijen 2",Molenpad,"1627 g",2025/04/06,"Rik Bos",Acacia,"zeer goed",,SysAdmin
+"Bijen 54",Molenpad,"6 kg",2025/06/16,"Emma de Graaf",Linde,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 69","De Bosrand","960 g",15-04-2025,"Marie Pieters",Koolzaad,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 13",HV,"13 kg",2025/09/07,"Adriaan Vink",Heide,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 8",HV,"3 kg",2025/06/16,"Adriaan Vink",Zonnebloem,matig,"Klein beetje troebel",SysAdmin
+"Bijen 26","Heideveld Zuid",6700g,27.09.2025,"Bram de Ruiter",Voorjaar,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 70",Molenweide,"919 g","29 aug 2025","Samira El-Mansoor",Esdoorn,,"Iets te vochtig",SysAdmin
+"Bijen 68",zonneweide,"8 kg",11-06-2025,"Rosalie de Jong",Klaver,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 61",ZW,"1592 g",2025/09/07,"Anita Bakker",Acacia,,"Iets te vochtig",SysAdmin
+"Bijen 68",HV,"993 g",12.09.2025,"Adriaan Vink",Esdoorn,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 62","achter d kerk","6 kg",17-09-2025,"Timon Kuijpers",Klaver,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 47",zonneweide,"2 kg",2025-05-19,"Peter P",Voorjaar,,"Verminderd volume door regen",SysAdmin
+"Bijen 49","De Heide","1301 g","25 aug 2025","Lars Vermeer",Bramen,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 9",Heideveld,"5 kg",2025/09/03,"Amal Hassan",Klaver,goed,"Iets te vochtig",SysAdmin
+"Bijen 11",Klaproosweg,8500g,25.08.2025,"Marie Pieters",Zomer,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 12","Zonneweide West","15 kg",2025/08/14,"Milan de Wit",Esdoorn,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 2",Klaproos,"3 kg",2025-06-23,"Dylan Schouten",Zonnebloem,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 55","Achter de Kerk","837 g",21-09-2025,"Fatima El Idrissi",Acacia,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 88",Klaasveld,"14 kg",2025-08-17,"Henk Zwart",Linde,goed,"Extra rijk aroma",SysAdmin
+"Bijen 46",Zonneweide,"8 kg",05.04.2025,"Rik Bos",Bramen,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 45",Molenpad,"12,0",2025-09-08,"Nina Verhoeven",Klaver,matig,,SysAdmin
+"Bijen 9",Klaproos,"2 kg","23 sep 2025","Dylan Schouten",Acacia,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 13",Bosrand,"6,3","4 apr 2025","Julia Visser",Zomer,,"Extra rijk aroma",SysAdmin
+"Bijen 62",HV,"11,6",22-04-2025,"Fleur Kok",Voorjaar,,"Lichte kristallisatie",SysAdmin
+"Bijen 10",Molenstraat,11700g,02.07.2025,"Bram de Ruiter",Linde,,"Lichte kristallisatie",SysAdmin
+"Bijen 36",ZW,"5 kg",01.07.2025,"Leonie van den Berg",Zonnebloem,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 59","De Heide","1658 g",2025/08/06,"Wouter Jonker",Voorjaar,goed,"Lichte bitterheid",SysAdmin
+"Bijen 79","Heideveld Zuid",15600g,2025-09-27,"Amal Hassan",Zonnebloem,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 62",Molen,"13 kg",2025-04-29,"Eva Jansen",Linde,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 84","Achter de Kerk","23,8",22-04-2025,"Rik Bos",Acacia,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 22",ZW-1,12700g,2025/06/24,"Daan Smits",Koolzaad,goed,"Geurig en helder",SysAdmin
+"Bijen 46",ZW,"18,1",22-09-2025,"Pieter van Loon",Bramen,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 91",ZW-1,23800g,"6 mei 2025","Chantal Dijkstra",Klaver,goed,"Lichte kristallisatie",SysAdmin
+"Bijen 90","De Heide","10 kg",2025/08/30,"Adriaan Vink",Bramen,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 44",Klaproosplein,"6 kg",2025/04/13,"Owen de Groot",Zonnebloem,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 70",bosrand,"2 kg",18-04-2025,"Ilse de Boer",Klaver,matig,"Top oogst",SysAdmin
+"Bijen 71","Achter de Kerk","6 kg",22.05.2025,"Pieter van Loon",Bramen,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 80",Klaasveld,"5 kg",2025/04/01,"Ilse de Boer",Klaver,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 6","De Heide","19 kg",30-05-2025,"Milan de Wit",Klaver,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 35",Molenweide,5200g,20-07-2025,"Owen de Groot",Koolzaad,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 18","Zonne weide","11 kg",2025-07-04,"Rosalie de Jong",Acacia,,"Extra rijk aroma",SysAdmin
+"Bijen 73",Klaasveld,"728 g",2025/06/17,"Sara van Leeuwen",Zonnebloem,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 16",Zonneweide,"8 kg",2025-05-01,"Jan de Vries",Heide,goed,"Lichte bitterheid",SysAdmin
+"Bijen 48","Zonneweide West","13 kg",2025-05-26,"Leonie van den Berg",Heide,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 97",Klaproosplein,"2 kg",06-09-2025,"Jeroen Kuiper",Heide,,"Lichte bitterheid",SysAdmin
+"Bijen 57",Klaproos,"6 kg",14.07.2025,"Lars Vermeer",Acacia,,"Heel dicht bij de kist",SysAdmin
+"Bijen 48","Achter de Kerk","1233 g",28-09-2025,"Lars Vermeer",Heide,,"Geurig en helder",SysAdmin
+"Bijen 30",Klaproos,"6 kg",11.06.2025,"Sara van Leeuwen",Heide,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 54",bosrand,"18,8",04-08-2025,"Adriaan Vink",Klaver,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 89",zonneweide,"6 kg",2025-08-15,"Ilse de Boer",Klaver,,"Geurig en helder",SysAdmin
+"Bijen 30",Kerk,"2 kg",2025-04-06,"Julia Visser",Klaver,,,SysAdmin
+"Bijen 91",bosrand,16200g,"19 sep 2025","Samira El-Mansoor",Zomer,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 71",Molenpad,24100g,05.06.2025,"Timon Kuijpers",Zomer,"zeer goed",,SysAdmin
+"Bijen 60","De Heide","20,2",08.05.2025,"Henk Zwart",Heide,excellent,"Iets te vochtig",SysAdmin
+"Bijen 30","Zonne weide","17,3",2025/05/12,"Fleur Kok",Klaver,goed,"Top oogst",SysAdmin
+"Bijen 25",Molenpad,"4 kg",08.08.2025,"Youssef Ali",Zonnebloem,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 88","Bosrand Noord","10,5",2025/04/01,"Kevin Molenaar",Heide,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 81",Kerk,10400g,19.08.2025,"Jan de Vries",Klaver,,"Iets te vochtig",SysAdmin
+"Bijen 52",Molenweide,"16 kg",17-08-2025,"Adriaan Vink",Bramen,,"Lichte bitterheid",SysAdmin
+"Bijen 32","Bosrand Noord",19700g,2025-05-23,"Noah Mulder",Esdoorn,,"Geurig en helder",SysAdmin
+"Bijen 95",Molenstraat,"6 kg","7 aug 2025","Nadia Ali",Klaver,"zeer goed","Heel dicht bij de kist",SysAdmin
+"Bijen 87",Molenweide,"19 kg",2025-09-18,"Timon Kuijpers",Voorjaar,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 47","achter d kerk","1 kg",21.05.2025,"Jeroen Kuiper",Koolzaad,matig,"Iets te vochtig",SysAdmin
+"Bijen 2",Molenweide,22600g,30.05.2025,"Thomas Meijer",Acacia,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 93",Klaproos,"1079 g","27 aug 2025","Sara van Leeuwen",Zomer,matig,"Geurig en helder",SysAdmin
+"Bijen 35",bosrand,22500g,2025-06-20,"Jeroen Kuiper",Koolzaad,excellent,"Heerlijk stroperig",SysAdmin
+"Bijen 76",HV,"19,8",14.07.2025,"Rosalie de Jong",Voorjaar,"zeer goed","Geurig en helder",SysAdmin
+"Bijen 5","Zonne weide",8400g,2025-07-06,"Adriaan Vink",Klaver,goed,"Heerlijk stroperig",SysAdmin
+"Bijen 98",Molenweide,22900g,"15 sep 2025","Sophie van Dijk",Zonnebloem,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 5","Zonne weide",22100g,07.09.2025,"Maya Smit",Klaver,excellent,"Mooie lichte kleur",SysAdmin
+"Bijen 27","Zonneweide West",6700g,2025/06/23,"Chantal Dijkstra",Voorjaar,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 15","De Heide","15 kg",2025-07-21,"Timon Kuijpers",Zonnebloem,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 51","Zonne weide","2 kg",2025/07/25,"Nina Verhoeven",Voorjaar,matig,"Lichte kristallisatie",SysAdmin
+"Bijen 4",Molenstraat,5800g,"1 apr 2025","Fatima El Idrissi",Linde,goed,"Klein beetje troebel",SysAdmin
+"Bijen 41",zonneweide,"7 kg",18-04-2025,"Maya Smit",Voorjaar,excellent,"Iets te vochtig",SysAdmin
+"Bijen 81","De Bosrand","9,3","5 mei 2025","Eva Jansen",Acacia,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 9",HV,"13,2",2025-05-04,"Mohammed Rahman",Zonnebloem,,"Heerlijk stroperig",SysAdmin
+"Bijen 97","Heideveld Zuid","12,3",24.07.2025,"Iris Maas",Heide,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 7",Klaasveld,"6 kg",2025/04/30,"Henk Zwart",Esdoorn,excellent,,SysAdmin
+"Bijen 60",HV,24000g,12-05-2025,"Lars Vermeer",Heide,,"Iets te vochtig",SysAdmin
+"Bijen 57",ZW-1,"4 kg","11 mei 2025","Sophie van Dijk",Koolzaad,,"Heel dicht bij de kist",SysAdmin
+"Bijen 11","Achter de Kerk",24100g,17-07-2025,"Maya Smit",Acacia,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 22","A. de Kerk",12400g,30-07-2025,"Thomas Meijer",Klaver,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 39",Molen,"1 kg",2025-06-19,"Maya Smit",Acacia,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 54",Bosrand,"758 g","11 apr 2025","Anita Bakker",Zonnebloem,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 76","A. de Kerk","4 kg",16.08.2025,"Sophie van Dijk",Koolzaad,excellent,,SysAdmin
+"Bijen 61",Klaasveld,"13 kg",2025/04/01,"Chantal Dijkstra",Acacia,,"Snel gekristalliseerd",SysAdmin
+"Bijen 45",Molenstraat,"1781 g",2025-04-24,"Klaas Vaak",Bramen,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 23",Molenpad,18800g,2025-04-25,"Eline Groen",Zomer,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 73","Bosrand Zuid","758 g",2025-05-01,"Marie Pieters",Zonnebloem,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 43",Kerkhof,20200g,2025-05-05,"Henk Zwart",Koolzaad,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 3",Klaproosplein,"18 kg","11 jun 2025","Fleur Kok",Voorjaar,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 28","De Bosrand",5600g,"25 jun 2025","Julia Visser",Voorjaar,,"Klein beetje troebel",SysAdmin
+"Bijen 4","achter d kerk","1205 g",18-04-2025,"Rik Bos",Bramen,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 50",Bosrand,"19 kg","31 jul 2025","Nadia Ali",Linde,excellent,"Heel dicht bij de kist",SysAdmin
+"Bijen 59",Klaproos,"3 kg",2025-07-18,"Marie Pieters",Koolzaad,matig,"Top oogst",SysAdmin
+"Bijen 86",Kerk,"819 g","15 mei 2025","Dylan Schouten",Esdoorn,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 10",Kerkhof,"1495 g",30.06.2025,"Nadia Ali",Koolzaad,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 83","Zonne weide","27,8",2025/06/10,"Rik Bos",Klaver,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 91","De Bosrand","542 g",14-05-2025,"Owen de Groot",Acacia,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 54",Bosrand,"15 kg",2025-05-21,"Milan de Wit",Esdoorn,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 48",Klaproos,"12 kg","16 mei 2025","Henk Zwart",Koolzaad,excellent,"Iets te vochtig",SysAdmin
+"Bijen 27","Zonne weide","1 kg",2025/08/07,"Nadia Ali",Linde,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 50","Bosrand Zuid","9,7","30 jun 2025","Thomas Meijer",Zonnebloem,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 36",Bosrand,"12,1",08-07-2025,"Leonie van den Berg",Zomer,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 83","Achter de Kerk","1242 g",11.07.2025,"Leonie van den Berg",Zomer,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 85","Heideveld Zuid","20 kg",29.06.2025,"Wouter Jonker",Acacia,,"Mooie lichte kleur",SysAdmin
+"Bijen 18",Heideveld,"11 kg",10.05.2025,"Owen de Groot",Zomer,goed,"Iets te vochtig",SysAdmin
+"Bijen 57",Molenpad,"1258 g",29-05-2025,"Adriaan Vink",Linde,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 42","Achter de kerk","9 kg",27-08-2025,"Iris Maas",Heide,,"Klein beetje troebel",SysAdmin
+"Bijen 67","Bosrand Noord","10,3","24 apr 2025","Emma de Graaf",Klaver,excellent,"Vreemde bijsmaak",SysAdmin
+"Bijen 3","Bosrand Noord","1612 g",14-08-2025,"Iris Maas",Voorjaar,,"Klein beetje troebel",SysAdmin
+"Bijen 77",Klaproos,"705 g",2025/06/19,"Youssef Ali",Koolzaad,matig,"Mooie lichte kleur",SysAdmin
+"Bijen 5","Bosrand Noord","6,1",2025-07-28,"Eline Groen",Klaver,excellent,"Goed uitgebalanceerd",SysAdmin
+"Bijen 91","De Bosrand","6 kg",2025/07/09,"Noah Mulder",Bramen,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 6","Bosrand Noord",22800g,02-06-2025,"Fleur Kok",Koolzaad,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 37","Achter de Kerk","8,5",2025/08/28,"Ilse de Boer",Linde,matig,"Lichte bitterheid",SysAdmin
+"Bijen 25","Heideveld Zuid","14 kg","21 jul 2025","Peter P",Acacia,,"Vreemde bijsmaak",SysAdmin
+"Bijen 97",Klaproosplein,19400g,13-06-2025,"Chantal Dijkstra",Linde,goed,"Extra rijk aroma",SysAdmin
+"Bijen 64",Molen,"19 kg",13-04-2025,"Ilse de Boer",Koolzaad,,"Mooie lichte kleur",SysAdmin
+"Bijen 66","Zonne weide","1146 g",2025/04/04,"Ilse de Boer",Acacia,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 7","Zonne weide",10200g,"13 mei 2025","Ilse de Boer",Voorjaar,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 94","Bosrand Zuid","15 kg",2025/09/20,"Emma de Graaf",Zomer,"zeer goed","Heel dicht bij de kist",SysAdmin
+"Bijen 39",Klaproosweg,"8,9",22-07-2025,"Amal Hassan",Heide,,"Heel dicht bij de kist",SysAdmin
+"Bijen 85","De Heide","12,9",12-05-2025,"Mohammed Rahman",Zonnebloem,"zeer goed","Goed uitgebalanceerd",SysAdmin
+"Bijen 83","De Heide","13,7",20.04.2025,"Leonie van den Berg",Bramen,matig,"Lichte kristallisatie",SysAdmin
+"Bijen 34","achter d kerk","18 kg","12 sep 2025","Timon Kuijpers",Voorjaar,matig,,SysAdmin
+"Bijen 90",Molenpad,"4 kg",23.07.2025,"Emma de Graaf",Koolzaad,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 19",ZW,"5 kg",2025-08-25,"Fleur Kok",Esdoorn,,"Heerlijk stroperig",SysAdmin
+"Bijen 31",Heideveld,"1651 g",20.05.2025,"Sophie van Dijk",Voorjaar,"zeer goed",,SysAdmin
+"Bijen 34",Kerk,"10,3","17 apr 2025","Julia Visser",Linde,,"Verminderd volume door regen",SysAdmin
+"Bijen 31",Klaproosplein,"7 kg","25 mei 2025","Ilse de Boer",Linde,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 31",Molenweide,"8 kg","4 jul 2025","Thomas Meijer",Zomer,goed,"Extra rijk aroma",SysAdmin
+"Bijen 68",Klaasveld,"5,7",2025/09/19,"Timon Kuijpers",Zonnebloem,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 18",Klaproosplein,"13,3",2025-05-16,"Klaas Vaak",Heide,excellent,"Lichte bitterheid",SysAdmin
+"Bijen 60",ZW-1,"6 kg",12.05.2025,"Anita Bakker",Voorjaar,goed,"Geurig en helder",SysAdmin
+"Bijen 70","A. de Kerk","24,7",2025-05-19,"Eva Jansen",Esdoorn,matig,"Lichte bitterheid",SysAdmin
+"Bijen 51","Bosrand Zuid","12,1",22-06-2025,"Marie Pieters",Zomer,"zeer goed","Iets te vochtig",SysAdmin
+"Bijen 68","A. de Kerk","6 kg",2025/07/13,"Ilse de Boer",Zomer,,"Snel gekristalliseerd",SysAdmin
+"Bijen 43",Bosrand,"16,5","22 jul 2025","Owen de Groot",Zonnebloem,,"Heel dicht bij de kist",SysAdmin
+"Bijen 33",Klaproos,"1664 g",2025/04/17,"Owen de Groot",Voorjaar,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 93","Zonne weide","1020 g",2025-05-06,"Eva Jansen",Koolzaad,,"Goed uitgebalanceerd",SysAdmin
+"Bijen 11",Zonneweide,"17,7",19.06.2025,"Adriaan Vink",Klaver,,"Lichte kristallisatie",SysAdmin
+"Bijen 10",Heideveld,"11 kg",2025/06/22,"Rosalie de Jong",Linde,"zeer goed","Vreemde bijsmaak",SysAdmin
+"Bijen 33","Heideveld Zuid","2 kg",12-05-2025,"Lucas Post",Koolzaad,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 15",Molenpad,24900g,"3 aug 2025","Youssef Ali",Voorjaar,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 20",Bosrand,"8 kg","9 jul 2025","Samira El-Mansoor",Zonnebloem,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 86","achter d kerk","5 kg",2025/09/14,"Maya Smit",Zomer,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 62","Bosrand Zuid","24,0","3 jul 2025","Youssef Ali",Linde,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 17","Bosrand Noord","899 g",2025/06/08,"Jan de Vries",Esdoorn,"zeer goed","Top oogst",SysAdmin
+"Bijen 25",HV,19000g,10.05.2025,"Leonie van den Berg",Koolzaad,,"Lichte kristallisatie",SysAdmin
+"Bijen 30",Molenpad,"11,3",2025-07-03,"Wouter Jonker",Klaver,matig,"Vreemde bijsmaak",SysAdmin
+"Bijen 15","Zonne weide","25,9",2025/04/11,"Adriaan Vink",Klaver,excellent,"Top oogst",SysAdmin
+"Bijen 71",Heideveld,"27,0",2025-04-16,"Rosalie de Jong",Zomer,excellent,,SysAdmin
+"Bijen 12",zonneweide,"13 kg",15-07-2025,"Daan Smits",Acacia,excellent,"Goed uitgebalanceerd",SysAdmin
+"Bijen 31","achter d kerk","1 kg",30-05-2025,"Lars Vermeer",Bramen,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 13","De Heide","1722 g","3 mei 2025","Nadia Ali",Koolzaad,excellent,"Snel gekristalliseerd",SysAdmin
+"Bijen 71","Bosrand Zuid","2 kg","25 aug 2025","Ilse de Boer",Zonnebloem,goed,"Goed uitgebalanceerd",SysAdmin
+"Bijen 100",Molenweide,"645 g",2025/07/20,"Pieter van Loon",Acacia,,"Extra rijk aroma",SysAdmin
+"Bijen 85","Achter de Kerk","6 kg",17.05.2025,"Maya Smit",Linde,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 99",ZW,5000g,2025-07-26,"Adriaan Vink",Acacia,matig,"Iets te vochtig",SysAdmin
+"Bijen 37",Molenweide,15100g,11-04-2025,"Bram de Ruiter",Heide,excellent,"Lichte bitterheid",SysAdmin
+"Bijen 53",Bosrand,"718 g",12.04.2025,"Julia Visser",Linde,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 20","Achter de Kerk","26,8",23-04-2025,"Lucas Post",Zomer,matig,"Geurig en helder",SysAdmin
+"Bijen 1",Klaproos,"6,8","17 sep 2025","Nadia Ali",Koolzaad,,"Lichte kristallisatie",SysAdmin
+"Bijen 62",Kerk,"1665 g",17.07.2025,"Iris Maas",Zomer,excellent,"Verminderd volume door regen",SysAdmin
+"Bijen 24",Molenstraat,"15 kg",14.08.2025,"Kevin Molenaar",Linde,matig,"Geurig en helder",SysAdmin
+"Bijen 72",Molen,"22,8","10 jul 2025","Wouter Jonker",Linde,,"Iets te vochtig",SysAdmin
+"Bijen 88",Molenweide,"1060 g",2025-06-29,"Adriaan Vink",Heide,matig,"Top oogst",SysAdmin
+"Bijen 50","Bosrand Zuid","2 kg",2025/08/27,"Sophie van Dijk",Heide,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 10","De Heide",5600g,11.08.2025,"Sophie van Dijk",Zonnebloem,matig,,SysAdmin
+"Bijen 26","Zonne weide","1364 g","27 jul 2025","Lars Vermeer",Koolzaad,excellent,"Extra rijk aroma",SysAdmin
+"Bijen 25",zonneweide,19700g,2025/04/04,"Marie Pieters",Voorjaar,,"Extra rijk aroma",SysAdmin
+"Bijen 70",HV,"5 kg",08.09.2025,"Jeroen Kuiper",Acacia,"zeer goed","Heerlijk stroperig",SysAdmin
+"Bijen 8",Klaproosplein,"5 kg",24.06.2025,"Klaas Vaak",Heide,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 69",Molenpad,"650 g",2025-06-09,"Daan Smits",Zomer,goed,"Klein beetje troebel",SysAdmin
+"Bijen 97","De Bosrand","18,8",2025/05/08,"Peter P",Voorjaar,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 61",zonneweide,"674 g",09-08-2025,"Timon Kuijpers",Linde,goed,"Lichte bitterheid",SysAdmin
+"Bijen 80",Bosrand,14400g,"5 jul 2025","Fleur Kok",Heide,goed,"Verminderd volume door regen",SysAdmin
+"Bijen 94",Klaproosweg,15200g,2025/04/29,"Rosalie de Jong",Zomer,goed,"Extra rijk aroma",SysAdmin
+"Bijen 16",Kerk,"8 kg","14 sep 2025","Rik Bos",Acacia,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 83",HV,"1023 g",2025/08/29,"Jan de Vries",Zomer,matig,"Goed uitgebalanceerd",SysAdmin
+"Bijen 33","Heideveld Zuid","8 kg",2025/08/01,"Rosalie de Jong",Koolzaad,,"Extra rijk aroma",SysAdmin
+"Bijen 61",Klaasveld,"1575 g",28.08.2025,"Klaas Vaak",Linde,,"Mooie lichte kleur",SysAdmin
+"Bijen 10",HV,"1414 g",2025-07-29,"Sophie van Dijk",Heide,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 29",Klaproosplein,"1488 g",2025-09-15,"Bram de Ruiter",Acacia,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 68",Zonneweide,7600g,2025-04-28,"Lars Vermeer",Klaver,matig,"Heel dicht bij de kist",SysAdmin
+"Bijen 88",Molenstraat,7700g,"4 mei 2025","Maya Smit",Linde,"zeer goed","Snel gekristalliseerd",SysAdmin
+"Bijen 9",Molenstraat,13700g,31.08.2025,"Ilse de Boer",Klaver,matig,"Heerlijk stroperig",SysAdmin
+"Bijen 45",bosrand,"3 kg",2025/09/22,"Klaas Vaak",Zomer,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 23","De Heide","7 kg",2025-08-03,"Daan Smits",Zomer,matig,,SysAdmin
+"Bijen 65",Molenstraat,"26,4",2025-07-26,"Rosalie de Jong",Koolzaad,goed,"Extra rijk aroma",SysAdmin
+"Bijen 48",Molenweide,"8 kg",29-09-2025,"Peter P",Bramen,matig,"Klein beetje troebel",SysAdmin
+"Bijen 63",Heideveld,"20 kg","6 apr 2025","Eva Jansen",Voorjaar,excellent,"Top oogst",SysAdmin
+"Bijen 29",bosrand,16800g,2025-06-08,"Peter P",Bramen,goed,"Lichte kristallisatie",SysAdmin
+"Bijen 59",Kerkhof,"6,0",2025/09/17,"Sara van Leeuwen",Zonnebloem,excellent,"Lichte bitterheid",SysAdmin
+"Bijen 47",Molen,"20 kg",2025-05-24,"Rik Bos",Zonnebloem,goed,"Top oogst",SysAdmin
+"Bijen 83",Molenweide,"8 kg",19.08.2025,"Mohammed Rahman",Linde,matig,"Iets te vochtig",SysAdmin
+"Bijen 48",Klaasveld,"2 kg",01.06.2025,"Youssef Ali",Klaver,,"Verminderd volume door regen",SysAdmin
+"Bijen 79",bosrand,"679 g",2025/04/13,"Wouter Jonker",Voorjaar,excellent,"Geurig en helder",SysAdmin
+"Bijen 23",Klaproosplein,11700g,02-08-2025,"Bram de Ruiter",Bramen,"zeer goed","Klein beetje troebel",SysAdmin
+"Bijen 82",Molen,"1330 g","10 jun 2025","Kevin Molenaar",Klaver,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 30","Achter de Kerk","6 kg",01-06-2025,"Eline Groen",Koolzaad,"zeer goed","Geurig en helder",SysAdmin
+"Bijen 28",Kerk,"5 kg","10 apr 2025","Henk Zwart",Klaver,goed,"Iets te vochtig",SysAdmin
+"Bijen 73",Kerkhof,17900g,13-07-2025,"Klaas Vaak",Voorjaar,goed,"Heel dicht bij de kist",SysAdmin
+"Bijen 69",bosrand,"11 kg","25 jul 2025","Dylan Schouten",Klaver,excellent,"Mooie lichte kleur",SysAdmin
+"Bijen 38","Heideveld Zuid","1694 g","29 jul 2025","Emma de Graaf",Acacia,excellent,"Geurig en helder",SysAdmin
+"Bijen 76",Zonneweide,"1355 g",2025-06-03,"Chantal Dijkstra",Acacia,"zeer goed","Lichte bitterheid",SysAdmin
+"Bijen 60",Zonneweide,"1 kg",2025/08/24,"Samira El-Mansoor",Zomer,"zeer goed",,SysAdmin
+"Bijen 28",Molen,"16 kg",2025/08/11,"Daan Smits",Koolzaad,matig,"Iets te vochtig",SysAdmin
+"Bijen 9",Molen,"15 kg",20-08-2025,"Youssef Ali",Zonnebloem,matig,"Verminderd volume door regen",SysAdmin
+"Bijen 75",Molenpad,"1736 g",11.07.2025,"Amal Hassan",Acacia,"zeer goed","Verminderd volume door regen",SysAdmin
+"Bijen 64",HV,"403 g",2025-07-27,"Julia Visser",Voorjaar,matig,,SysAdmin
+"Bijen 34","De Bosrand",21100g,04-06-2025,"Nadia Ali",Zonnebloem,excellent,"Geurig en helder",SysAdmin
+"Bijen 80",Klaproosweg,"9 kg",2025-05-16,"Mohammed Rahman",Zomer,excellent,"Lichte kristallisatie",SysAdmin
+"Bijen 4",Heideveld,"9,1",2025-07-14,"Pieter van Loon",Linde,,"Lichte kristallisatie",SysAdmin
+"Bijen 56",Molenweide,"7 kg",2025-06-27,"Lars Vermeer",Voorjaar,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 99","Bosrand Zuid","8 kg",20.08.2025,"Jan de Vries",Voorjaar,,"Lichte kristallisatie",SysAdmin
+"Bijen 44","A. de Kerk","14 kg","25 jun 2025","Lars Vermeer",Zomer,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 9","De Bosrand","14,4",2025-08-04,"Rosalie de Jong",Voorjaar,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 63",Klaproosweg,"1797 g","13 sep 2025","Maya Smit",Voorjaar,goed,"Iets te vochtig",SysAdmin
+"Bijen 93",Molenstraat,"25,7",2025/05/18,"Bram de Ruiter",Zomer,goed,,SysAdmin
+"Bijen 57",Klaproosplein,"1777 g",2025-07-07,"Leonie van den Berg",Heide,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 18","De Bosrand",9300g,2025/08/24,"Chantal Dijkstra",Bramen,matig,"Extra rijk aroma",SysAdmin
+"Bijen 57","De Heide","14,5",06.07.2025,"Maya Smit",Bramen,,"Goed uitgebalanceerd",SysAdmin
+"Bijen 83","Heideveld Zuid","690 g",09.05.2025,"Leonie van den Berg",Zonnebloem,"zeer goed","Top oogst",SysAdmin
+"Bijen 66","Heideveld Zuid",23700g,2025/06/17,"Iris Maas",Zonnebloem,,"Lichte bitterheid",SysAdmin
+"Bijen 42","Bosrand Noord","10 kg",14-07-2025,"Henk Zwart",Voorjaar,matig,"Top oogst",SysAdmin
+"Bijen 14","Bosrand Zuid","13 kg",27-04-2025,"Dylan Schouten",Zomer,,"Verminderd volume door regen",SysAdmin
+"Bijen 56",Klaproosplein,"1571 g",02.09.2025,"Youssef Ali",Voorjaar,"zeer goed","Mooie lichte kleur",SysAdmin
+"Bijen 47","Bosrand Noord",21500g,11-04-2025,"Mohammed Rahman",Acacia,,"Extra rijk aroma",SysAdmin
+"Bijen 10",bosrand,"24,1","10 apr 2025","Maya Smit",Koolzaad,goed,"Mooie lichte kleur",SysAdmin
+"Bijen 37","A. de Kerk","1338 g",05-07-2025,"Mohammed Rahman",Klaver,goed,"Vreemde bijsmaak",SysAdmin
+"Bijen 93","Bosrand Zuid","924 g",2025-08-14,"Timon Kuijpers",Voorjaar,excellent,"Iets te vochtig",SysAdmin
+"Bijen 49","De Bosrand","13,2",2025/04/03,"Sophie van Dijk",Bramen,"zeer goed","Lichte kristallisatie",SysAdmin
+"Bijen 93",Kerkhof,"4 kg","6 sep 2025","Sophie van Dijk",Voorjaar,matig,"Top oogst",SysAdmin
+"Bijen 49",HV,22100g,03.07.2025,"Amal Hassan",Acacia,"zeer goed","Extra rijk aroma",SysAdmin
+"Bijen 20",zonneweide,9800g,"2 sep 2025","Eline Groen",Bramen,matig,"Snel gekristalliseerd",SysAdmin
+"Bijen 97",Molenstraat,5500g,2025/04/01,"Pieter van Loon",Linde,excellent,"Lichte bitterheid",SysAdmin
+"Bijen 67",Heideveld,"5 kg",2025/07/26,"Timon Kuijpers",Voorjaar,goed,"Snel gekristalliseerd",SysAdmin
+"Bijen 91","Achter de Kerk","12,3","18 apr 2025","Amal Hassan",Zomer,excellent,"Lichte bitterheid",SysAdmin
