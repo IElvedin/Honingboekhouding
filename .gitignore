@@ -1,0 +1,9 @@
+/vendor/
+/.phpunit.result.cache
+
+# var/ holds the database and the export; keep the (empty) folder itself,
+# otherwise import and export fail after a fresh clone
+/var/*
+!/var/.gitkeep
+
+.~lock.*
