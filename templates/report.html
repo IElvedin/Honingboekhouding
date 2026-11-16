@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Honingboekhouding – rapportage</title>
+    <style>
+      /* Simple, dependency-free styling: one accent colour (honey), readable tables.
+           All colours are variables, so the dark theme only has to override them. */
+      :root {
+        color-scheme: light; /* native controls (select, scrollbars) follow the theme */
+        --honey: #e0a526;
+        --honey-light: #fdf6e3;
+        --header-bg: #e0a526;
+        --header-text: #ffffff;
+        --bg: #fafaf7;
+        --surface: #ffffff;
+        --surface-alt: #fcfbf8;
+        --text: #2b2b2b;
+        --muted: #6b6b6b;
+        --border: #e2ddd0;
+        --error: #b42318;
+      }
+
+      /* Dark theme, as one block of values. Used in two cases:
+           1. the computer is set to dark and the user didn't choose "light" with the button;
+           2. the user chose "dark" with the button. */
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme="light"]) {
+          color-scheme: dark;
+          --honey: #f0b93a;
+          --honey-light: #3a3020;
+          --header-bg: #2e2412;
+          --header-text: #f0b93a;
+          --bg: #141412;
+          --surface: #1e1d1a;
+          --surface-alt: #242320;
+          --text: #ece9e2;
+          --muted: #a39e93;
+          --border: #3a372f;
+          --error: #ff8a7a;
+        }
+      }
+
+      :root[data-theme="dark"] {
+        color-scheme: dark;
+        --honey: #f0b93a;
+        --honey-light: #3a3020;
+        --header-bg: #2e2412;
+        --header-text: #f0b93a;
+        --bg: #141412;
+        --surface: #1e1d1a;
+        --surface-alt: #242320;
+        --text: #ece9e2;
+        --muted: #a39e93;
+        --border: #3a372f;
+        --error: #ff8a7a;
+      }
+
+      body {
+        margin: 0;
+        font-family:
+          system-ui,
+          -apple-system,
+          "Segoe UI",
+          Roboto,
+          sans-serif;
+        color: var(--text);
+        background: var(--bg);
+        line-height: 1.5;
+      }
+
+      header {
+        background: var(--header-bg);
+        color: var(--header-text);
+        padding: 1rem 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+
+      #theme-toggle {
+        font: inherit;
+        font-size: 0.9rem;
+        padding: 0.3rem 0.75rem;
+        border: 1px solid currentColor;
+        border-radius: 999px;
+        background: transparent;
+        color: inherit;
+        cursor: pointer;
+        white-space: nowrap;
+      }
+
+      #theme-toggle:focus-visible,
+      select:focus-visible {
+        outline: 2px solid var(--honey);
+        outline-offset: 2px;
+      }
+
+      header h1 {
+        margin: 0;
+        font-size: 1.4rem;
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 1rem 1.5rem 3rem;
+      }
+
+      .toolbar {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        margin: 1rem 0;
+      }
+
+      select {
+        font: inherit;
+        padding: 0.25rem 0.5rem;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        background: var(--surface);
+        color: var(--text);
+      }
+
+      #status {
+        color: var(--muted);
+      }
+
+      #status.error {
+        color: var(--error);
+      }
+
+      section {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1rem 1.25rem;
+        margin-bottom: 1.5rem;
+      }
+
+      h2 {
+        margin: 0 0 0.75rem;
+        font-size: 1.1rem;
+      }
+
+      .table-wrapper {
+        overflow-x: auto; /* wide tables scroll on small screens */
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+
+      th,
+      td {
+        padding: 0.45rem 0.6rem;
+        text-align: left;
+        border-bottom: 1px solid var(--border);
+      }
+
+      th {
+        background: var(--honey-light);
+        font-weight: 600;
+      }
+
+      tbody tr:nth-child(even) {
+        background: var(--surface-alt);
+      }
+
+      tbody tr:hover {
+        background: var(--honey-light);
+      }
+
+      /* Don't break names, codes and dates over two lines ("KONINGIN-" / "E");
+           only the last column (list of beehouses) may wrap. */
+      td:not(:last-child) {
+        white-space: nowrap;
+      }
+
+      .number {
+        text-align: right;
+        font-variant-numeric: tabular-nums; /* digits line up in columns */
+        white-space: nowrap;
+      }
+
+      .empty {
+        color: var(--muted);
+        font-style: italic;
+      }
+
+      .note {
+        color: var(--muted);
+        font-size: 0.85rem;
+        margin: 0.5rem 0 0;
+      }
+    </style>
+    <script>
+      // Apply a saved theme before the page is drawn, so it never flashes light first.
+      try {
+        const saved = localStorage.getItem("theme");
+        if (saved === "light" || saved === "dark") {
+          document.documentElement.dataset.theme = saved;
+        }
+      } catch {
+        // storage unavailable: follow the system setting
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>🍯 Honingboekhouding – rapportage</h1>
+      <button id="theme-toggle" type="button" title="Wissel tussen systeem, licht en donker">Thema: systeem</button>
+    </header>
+
+    <main>
+      <div class="toolbar">
+        <label
+          >Jaar:
+          <select id="year"></select>
+        </label>
+        <span id="status">Laden…</span>
+      </div>
+
+      <section>
+        <h2>Totale opbrengst per bijenstand per jaar</h2>
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>Jaar</th>
+                <th>Bijenstand</th>
+                <th class="number">Oogsten</th>
+                <th class="number">Opbrengst</th>
+              </tr>
+            </thead>
+            <tbody id="yield"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section>
+        <h2>Top 5 best presterende volken in <span class="chosen-year"></span></h2>
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th class="number">#</th>
+                <th>Lid</th>
+                <th>Volk</th>
+                <th class="number">Oogsten</th>
+                <th class="number">Opbrengst</th>
+                <th>Bijenstand(en)</th>
+              </tr>
+            </thead>
+            <tbody id="top"></tbody>
+          </table>
+        </div>
+        <p class="note">Een volk = lid + volkcode; gelijke opbrengst = gedeelde plaats.</p>
+      </section>
+
+      <section>
+        <h2>Leden die in <span class="chosen-year"></span> nog niets hebben aangeleverd</h2>
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>Lid</th>
+                <th>Laatste aanlevering</th>
+              </tr>
+            </thead>
+            <tbody id="members"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const formatKg = (grams) => (grams / 1000).toLocaleString("nl-NL", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " kg";
+      const formatNumber = (n) => n.toLocaleString("nl-NL");
+      const formatDate = (iso) => (iso ? iso.split("-").reverse().join("-") : "-");
+
+      // Fills a table. Uses textContent, so names from the data are never executed as HTML.
+      // numberColumns: indexes of columns that are right-aligned (numbers).
+      function fillTable(id, rows, emptyText, columnCount, numberColumns = []) {
+        const tbody = document.getElementById(id);
+        tbody.replaceChildren();
+
+        if (rows.length === 0) {
+          const td = document.createElement("td");
+          td.colSpan = columnCount;
+          td.className = "empty";
+          td.textContent = emptyText;
+          tbody.appendChild(document.createElement("tr")).appendChild(td);
+          return;
+        }
+
+        for (const row of rows) {
+          const tr = tbody.appendChild(document.createElement("tr"));
+          row.forEach((value, index) => {
+            const td = tr.appendChild(document.createElement("td"));
+            td.textContent = value;
+            if (numberColumns.includes(index)) {
+              td.className = "number";
+            }
+          });
+        }
+      }
+
+      async function load(year) {
+        const status = document.getElementById("status");
+        status.className = "";
+        status.textContent = "Laden…";
+
+        try {
+          const url = "/api/report" + (year ? "?year=" + encodeURIComponent(year) : "");
+          const response = await fetch(url);
+          const data = await response.json();
+
+          if (!response.ok) {
+            throw new Error(data.fout ?? "HTTP " + response.status);
+          }
+
+          // Fill the year picker with the years that have data (plus the chosen year)
+          const select = document.getElementById("year");
+          const years = [...new Set([...data.beschikbare_jaren, data.jaar])].sort((a, b) => b - a);
+          select.replaceChildren(...years.map((y) => new Option(y, y, false, y === data.jaar)));
+
+          document.querySelectorAll(".chosen-year").forEach((el) => (el.textContent = data.jaar));
+
+          fillTable(
+            "yield",
+            data.opbrengst_per_bijenstand_per_jaar.map((r) => [r.jaar, r.bijenstand, formatNumber(r.aantal_oogsten), formatKg(r.totaal_gram)]),
+            "Geen oogsten in de database.",
+            4,
+            [2, 3],
+          );
+
+          fillTable(
+            "top",
+            data.top_volken.map((c) => [c.positie + ".", c.lid, c.volk, formatNumber(c.aantal_oogsten), formatKg(c.totaal_gram), c.bijenstanden.join(", ")]),
+            "Geen oogsten in " + data.jaar + ".",
+            6,
+            [0, 3, 4],
+          );
+
+          fillTable(
+            "members",
+            data.leden_zonder_aanlevering.map((m) => [m.lid, formatDate(m.laatste_aanlevering)]),
+            "Alle bekende leden hebben aangeleverd.",
+            2,
+          );
+
+          status.textContent = "";
+        } catch (error) {
+          status.className = "error";
+          status.textContent = "Fout bij ophalen: " + error.message;
+        }
+      }
+
+      // Theme button: system -> light -> dark -> system. The choice is remembered in
+      // localStorage (per browser); "system" follows the computer's setting.
+      const THEMES = ["system", "light", "dark"];
+      const THEME_LABELS = { system: "systeem", light: "licht", dark: "donker" };
+
+      function applyTheme(theme) {
+        if (theme === "system") {
+          delete document.documentElement.dataset.theme;
+        } else {
+          document.documentElement.dataset.theme = theme;
+        }
+        document.getElementById("theme-toggle").textContent = "Thema: " + THEME_LABELS[theme];
+      }
+
+      function currentTheme() {
+        return document.documentElement.dataset.theme ?? "system";
+      }
+
+      document.getElementById("theme-toggle").addEventListener("click", () => {
+        const next = THEMES[(THEMES.indexOf(currentTheme()) + 1) % THEMES.length];
+        applyTheme(next);
+        try {
+          localStorage.setItem("theme", next);
+        } catch {
+        }
+      });
+
+      applyTheme(currentTheme()); // the early script in <head> may already have set it
+
+      document.getElementById("year").addEventListener("change", (e) => load(e.target.value));
+
+      load(); // without a year: the server picks the default year
+    </script>
+  </body>
+</html>
